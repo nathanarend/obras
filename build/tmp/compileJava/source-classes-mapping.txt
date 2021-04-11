@@ -1,0 +1,34 @@
+br/com/unialfa/obras/obrasCliente/domain/Obras.java
+ br.com.unialfa.obras.obrasCliente.domain.Obras
+br/com/unialfa/obras/cliente/domain/Cliente.java
+ br.com.unialfa.obras.cliente.domain.Cliente
+br/com/unialfa/obras/ObrasApplication.java
+ br.com.unialfa.obras.ObrasApplication
+br/com/unialfa/obras/material/domain/ItemPedidoId.java
+ br.com.unialfa.obras.material.domain.ItemPedidoId
+br/com/unialfa/obras/material/repository/ItensPedidoRepository.java
+ br.com.unialfa.obras.material.repository.ItensPedidoRepository
+br/com/unialfa/obras/WebSecurityConfig.java
+ br.com.unialfa.obras.WebSecurityConfig
+br/com/unialfa/obras/material/domain/PedidoMaterial.java
+ br.com.unialfa.obras.material.domain.PedidoMaterial
+br/com/unialfa/obras/cliente/business/ClienteBusiness.java
+ br.com.unialfa.obras.cliente.business.ClienteBusiness
+br/com/unialfa/obras/cliente/repository/clienteRepository.java
+ br.com.unialfa.obras.cliente.repository.clienteRepository
+br/com/unialfa/obras/cliente/service/ClienteController.java
+ br.com.unialfa.obras.cliente.service.ClienteController
+br/com/unialfa/obras/fornecedor/repository/FornecedorRepository.java
+ br.com.unialfa.obras.fornecedor.repository.FornecedorRepository
+br/com/unialfa/obras/fornecedor/domain/Fornecedor.java
+ br.com.unialfa.obras.fornecedor.domain.Fornecedor
+br/com/unialfa/obras/material/repository/MaterialRepository.java
+ br.com.unialfa.obras.material.repository.MaterialRepository
+br/com/unialfa/obras/material/service/MaterialController.java
+ br.com.unialfa.obras.material.service.MaterialController
+br/com/unialfa/obras/material/domain/ItensPedido.java
+ br.com.unialfa.obras.material.domain.ItensPedido
+br/com/unialfa/obras/obrasCliente/service/ObrasController.java
+ br.com.unialfa.obras.obrasCliente.service.ObrasController
+br/com/unialfa/obras/obrasCliente/repository/ObrasRepository.java
+ br.com.unialfa.obras.obrasCliente.repository.ObrasRepository
